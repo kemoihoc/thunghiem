@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Alooo
+=======
+Ki la that
+>>>>>>> 1e1aa871db78fcb139bd5038a1e7ee648b5c8a6d
