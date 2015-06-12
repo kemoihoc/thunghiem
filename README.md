@@ -1,0 +1,2 @@
+# thunghiem
+Thu nghiem git
