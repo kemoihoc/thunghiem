@@ -1,2 +1,7 @@
 Hello
+<<<<<<< HEAD
 Ki la thiet
+=======
+
+Sao ki vay ta
+>>>>>>> f011c1337152a4b06e02b48d049a40583109234f
